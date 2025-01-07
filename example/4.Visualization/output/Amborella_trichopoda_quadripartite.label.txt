@@ -1,0 +1,4 @@
+Amborella_trichopoda	1	90950	LSC
+Amborella_trichopoda	90951	117611	IRb
+Amborella_trichopoda	117612	136025	SSC
+Amborella_trichopoda	136026	162686	IRa

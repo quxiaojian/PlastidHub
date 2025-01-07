@@ -1,0 +1,21 @@
+Total sequence length of alignment matrix test4:
+12
+
+Number of variable/polymorphic site(s) with all nucleotides in alignment matrix test4:
+4
+
+Percentage of variable/polymorphic site(s) with all nucleotides in alignment matrix test4:
+0.3333
+
+Position of variable/polymorphic site(s) with all nucleotides in alignment matrix test4:
+2 3 4 5
+
+Variable/polymorphic site(s) with all nucleotides in alignment matrix test4:
+>sp1
+TCCT
+>sp2
+GCGC
+>sp3
+GGAG
+>sp4
+GGAA

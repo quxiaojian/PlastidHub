@@ -1,0 +1,2 @@
+chr - Amborella_trichopoda Amborella_trichopoda 0 162686 black
+chr - Rosa_roxburghii Rosa_roxburghii 0 156749 black

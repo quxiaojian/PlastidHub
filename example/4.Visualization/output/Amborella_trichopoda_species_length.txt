@@ -1,0 +1,2 @@
+Amborella_trichopoda	16600	21691	162,686bp
+Amborella_trichopoda	23924	29051	Amborella_trichopoda

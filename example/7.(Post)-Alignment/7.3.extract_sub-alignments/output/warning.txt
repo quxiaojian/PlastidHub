@@ -1,0 +1,4 @@
+Alignment matrix atpB.fasta does not contain following species:
+sp4 sp5
+Alignment matrix atpF.fasta does not contain following species:
+sp3 sp4 sp8

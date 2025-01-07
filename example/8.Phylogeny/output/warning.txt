@@ -1,0 +1,1 @@
+Sequence length longer than 10 kb for the gene ycf1!

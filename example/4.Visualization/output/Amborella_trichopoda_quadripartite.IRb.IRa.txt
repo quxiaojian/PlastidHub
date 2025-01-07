@@ -1,0 +1,2 @@
+Amborella_trichopoda	90951	117611	fill_color=black,z=0
+Amborella_trichopoda	136026	162686	fill_color=black,z=0

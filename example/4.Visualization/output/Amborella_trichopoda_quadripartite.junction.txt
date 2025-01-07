@@ -1,0 +1,5 @@
+Amborella_trichopoda	1	2	0
+Amborella_trichopoda	90949	90950	10
+Amborella_trichopoda	117610	117611	10
+Amborella_trichopoda	136024	136025	10
+Amborella_trichopoda	162685	162686	10

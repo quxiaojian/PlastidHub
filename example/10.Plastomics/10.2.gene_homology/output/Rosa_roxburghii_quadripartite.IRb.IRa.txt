@@ -1,0 +1,2 @@
+Rosa_roxburghii	85853	111905	fill_color=black,z=0
+Rosa_roxburghii	130697	156749	fill_color=black,z=0

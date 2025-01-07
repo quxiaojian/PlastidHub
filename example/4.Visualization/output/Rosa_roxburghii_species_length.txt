@@ -1,0 +1,2 @@
+Rosa_roxburghii	15994	20899	156,749bp
+Rosa_roxburghii	23051	27990	Rosa_roxburghii

@@ -1,0 +1,5 @@
+Rosa_roxburghii	1	2	0
+Rosa_roxburghii	85851	85852	10
+Rosa_roxburghii	111904	111905	10
+Rosa_roxburghii	130695	130696	10
+Rosa_roxburghii	156748	156749	10

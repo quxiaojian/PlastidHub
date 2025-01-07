@@ -1,0 +1,48 @@
+H:hitting, M:missing, R:redundant, n:number, p:percentage, P:PCGs, T:tRNAs, R:rRNAs
+
+1. Number of hitting, missing, and redundant genes:
+|114 total gene numbers in reference|
+|114 total gene numbers in target|
+
+|114 number of hitting genes (nH)|
+|0 number of missing genes (nM)|
+|0 number of redundant genes (nR)|
+
+|100% percentage of hitting gene (pH)|
+|0% percentage of missing genes (pM)|
+|0% percentage of redundant genes (pR)|
+
+2. Number of hitting, missing, and redundant PCGs, tRNAs and rRNAs:
+|80 number of hitting PCGs (nHP)|
+|0 number of missing PCGs (nMP)|
+|0 number of redundant PCGs (nRP)|
+
+|30 number of hitting tRNAs (nHT)|
+|0 number of missing tRNAs (nMT)|
+|0 number of redundant tRNAs (nRT)|
+
+|4 number of hitting rRNAs (nHR)|
+|0 number of missing rRNAs (nMR)|
+|0 number of redundant rRNAs (nRR)|
+
+3. Name of hitting, missing, and redundant PCGs, tRNAs and rRNAs:
+|name of hitting PCGs|
+accD atpA atpB atpE atpF atpH atpI ccsA cemA clpP infA matK ndhA ndhB ndhC ndhD ndhE ndhF ndhG ndhH ndhI ndhJ ndhK petA petB petD petG petL petN psaA psaB psaC psaI psaJ psbA psbB psbC psbD psbE psbF psbH psbI psbJ psbK psbL psbM psbN psbT psbZ rbcL rpl14 rpl16 rpl2 rpl20 rpl22 rpl23 rpl32 rpl33 rpl36 rpoA rpoB rpoC1 rpoC2 rps11 rps12 rps14 rps15 rps16 rps18 rps19 rps2 rps3 rps4 rps7 rps8 ycf1 ycf15 ycf2 ycf3 ycf4
+|name of missing PCGs|
+None
+|name of redundant PCGs|
+None
+
+|name of hitting tRNAs|
+trnA-UGC trnC-GCA trnD-GUC trnE-UUC trnF-GAA trnG-GCC trnG-UCC trnH-GUG trnI-CAU trnI-GAU trnK-UUU trnL-CAA trnL-UAA trnL-UAG trnM-CAU trnN-GUU trnP-UGG trnQ-UUG trnR-ACG trnR-UCU trnS-GCU trnS-GGA trnS-UGA trnT-GGU trnT-UGU trnV-GAC trnV-UAC trnW-CCA trnY-GUA trnfM-CAU
+|name of missing tRNAs|
+None
+|name of redundant tRNAs|
+None
+
+|name of hitting rRNAs|
+rrn16 rrn23 rrn4.5 rrn5
+|name of missing rRNAs|
+None
+|name of redundant rRNAs|
+None

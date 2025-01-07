@@ -1,0 +1,5 @@
+Sequence_matrix	percentage_of_variable_sites	number_of_variable_sites	total_length_of_matrix
+test2	0.4000	2	5
+test3	0.3333	4	12
+test4	0.3333	4	12
+test1	0.2500	1	4

@@ -1,0 +1,12 @@
+Gap position(s) in alignment matrix:
+12 
+
+Gap site(s) in alignment matrix (i.e. -):
+>sp1
+-
+>sp2
+-
+>sp3
+-
+>sp4
+-

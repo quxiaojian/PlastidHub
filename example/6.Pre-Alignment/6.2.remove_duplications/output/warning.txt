@@ -1,0 +1,3 @@
+Not removed! Because in Amaranthus_caudatus_CDS_RNA.fasta, header >rps12_Amaranthus_caudatus is duplicated, but sequence is not duplicated.
+Not removed! Because in Amaranthus_tricolor_CDS_RNA.fasta, header >rps12_Amaranthus_tricolor is duplicated, but sequence is not duplicated.
+Not removed! Because in Amaranthus_tricolor_intergenic.fasta, header >trnN-GUU-trnR-ACG_Amaranthus_tricolor is duplicated, but sequence is not duplicated.

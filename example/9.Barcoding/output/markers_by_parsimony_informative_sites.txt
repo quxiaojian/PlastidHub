@@ -1,0 +1,3 @@
+Sequence_matrix	percentage_of_parsimony_informative_sites	number_of_parsimony_informative_sites	total_length_of_matrix
+test4	0.0833	1	12
+test3	0.0833	1	12

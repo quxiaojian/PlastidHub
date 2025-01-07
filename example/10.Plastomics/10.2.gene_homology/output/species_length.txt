@@ -1,0 +1,4 @@
+Amborella_trichopoda	18487	29579	162,686bp
+Amborella_trichopoda	28049	45190	Amborella_trichopoda
+Rosa_roxburghii	17812	28499	156,749bp
+Rosa_roxburghii	27025	43541	Rosa_roxburghii

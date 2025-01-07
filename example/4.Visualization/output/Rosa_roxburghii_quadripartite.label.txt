@@ -1,0 +1,4 @@
+Rosa_roxburghii	1	85852	LSC
+Rosa_roxburghii	85853	111905	IRb
+Rosa_roxburghii	111906	130696	SSC
+Rosa_roxburghii	130697	156749	IRa

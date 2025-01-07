@@ -1,5 +1,12 @@
-# PlastidHub<br />
+# PlastidHub v1.0
 An integrated platform with tools for analyzing plastome sequences
+Copyright (C) 2024 Xiao-Jian Qu
+
+# Contact
+quxiaojian@sdnu.edu.cn
+
+# Citation
+To be continued...
 
 # Get Started
 PlastidHub is an integrated platform with developed or collected open source tools for analyzing plastome sequences.
