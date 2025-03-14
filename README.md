@@ -1,6 +1,10 @@
 # PlastidHub v1.0<br />
-An integrated platform with tools for analyzing plastome sequences<br />
-Copyright (C) 2024 Xiao-Jian Qu<br />
+An integrated analysis platform for plastid phylogenomics and comparative genomics<br />
+Copyright (C) 2025 Xiao-Jian Qu<br />
+<br />
+
+# Website<br />
+https://www.plastidhub.cn/
 <br />
 
 # Contact<br />
@@ -8,7 +12,7 @@ quxiaojian@sdnu.edu.cn<br />
 <br />
 
 # Citation<br />
-To be continued...<br />
+Na-Na Zhang, Gregory W. Stull, Xue-Jie Zhang, Shou-Jin Fan, Ting-Shuang Yi, Xiao-Jian Qu. PlastidHub: an integrated analysis platform for plastid phylogenomics and comparative genomics. 2025. Submitted.<br />
 <br />
 
 # Get Started<br />
