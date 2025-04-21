@@ -496,7 +496,7 @@ if (($pattern == 1) or ($pattern == 5) or ($pattern == 7)) {
 			$last0=$_-1;
 			$last1=$_+1;
 			$last2=$_+2;
-			next if ((($END5{$_}+1) >= ($START5{$last1}-1)) and (($END5{$_}+1) < ($END5{$last1}-1)));
+			next if ((($END5{$_}+1) > ($START5{$last1}-1)) and (($END5{$_}+1) < ($END5{$last1}-1)));
 			next if (($_ > 1) and (($END5{$_}+1) < ($END5{$last0}-1)) and (($END5{$_}+1) < ($START5{$last2}-1)));
 			if ((($END5{$_}+1) >= ($START5{$last1}-1)) and (($END5{$_}+1) >= ($END5{$last1}-1))){
 				push @output4,$SP3{$_}."\t".$GENE3{$_}.'-'.$GENE3{$last2}."\t".$STRAND5{$_}."/".$STRAND5{$last2}."\t".($END5{$_}+1)."\t".($START5{$last2}-1)."\t".$TYPE5{$_}."/".$TYPE5{$last2}."\n";
@@ -989,7 +989,7 @@ if (($pattern == 2) or ($pattern == 5) or ($pattern == 7)) {
 			$last0=$_-1;
 			$last1=$_+1;
 			$last2=$_+2;
-			next if ((($END5{$_}+1) >= ($START5{$last1}-1)) and (($END5{$_}+1) < ($END5{$last1}-1)));
+			next if ((($END5{$_}+1) > ($START5{$last1}-1)) and (($END5{$_}+1) < ($END5{$last1}-1)));
 			next if (($_ > 1) and (($END5{$_}+1) < ($END5{$last0}-1)) and (($END5{$_}+1) < ($START5{$last2}-1)));
 			if ((($END5{$_}+1) >= ($START5{$last1}-1)) and (($END5{$_}+1) >= ($END5{$last1}-1))){
 				push @output4,$SP3{$_}."\t".$GENE3{$_}.'-'.$GENE3{$last2}."\t".$STRAND5{$_}."/".$STRAND5{$last2}."\t".($END5{$_}+1)."\t".($START5{$last2}-1)."\t".$TYPE5{$_}."/".$TYPE5{$last2}."\n";
@@ -1914,7 +1914,7 @@ if (($pattern == 3) or ($pattern == 6) or ($pattern == 7)) {
 			$last0=$_-1;
 			$last1=$_+1;
 			$last2=$_+2;
-			next if ((($END7{$_}+1) >= ($START7{$last1}-1)) and (($END7{$_}+1) < ($END7{$last1}-1)));
+			next if ((($END7{$_}+1) > ($START7{$last1}-1)) and (($END7{$_}+1) < ($END7{$last1}-1)));
 			next if (($_ > 1) and (($END7{$_}+1) < ($END7{$last0}-1)) and (($END7{$_}+1) < ($START7{$last2}-1)));
 			if ((($END7{$_}+1) >= ($START7{$last1}-1)) and (($END7{$_}+1) >= ($END7{$last1}-1))){
 				push @output4,$SP3{$_}."\t".$GENE3{$_}.'-'.$GENE3{$last2}."\t".$STRAND7{$_}."/".$STRAND7{$last2}."\t".($END7{$_}+1)."\t".($START7{$last2}-1)."\t".$TYPE7{$_}."/".$TYPE7{$last2}."\n";
@@ -2523,7 +2523,7 @@ if (($pattern == 4) or ($pattern == 6) or ($pattern == 7)) {
 		}
 		foreach (1..($cnt3-1)) {
 			$last=$_+1;
-			next if ($END5{$_}+1) >= ($START5{$last}-1);
+			next if ($END5{$_}+1) > ($START5{$last}-1);
 			push @output4,$SP3{$_}."\t".$GENE3{$_}.'-'.$GENE3{$last}."\t".$STRAND5{$_}."/".$STRAND5{$last}."\t".($END5{$_}+1)."\t".($START5{$last}-1)."\t".$TYPE5{$_}."/".$TYPE5{$last}."\n";
 		}
 		foreach (keys %SP3){
