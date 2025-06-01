@@ -12,7 +12,7 @@ quxiaojian@sdnu.edu.cn<br />
 <br />
 
 # Citation<br />
-Na-Na Zhang, Gregory W. Stull, Xue-Jie Zhang, Shou-Jin Fan, Ting-Shuang Yi, Xiao-Jian Qu. PlastidHub: an integrated analysis platform for plastid phylogenomics and comparative genomics. 2025. Submitted.<br />
+Na-Na Zhang, Gregory W. Stull, Xue-Jie Zhang, Shou-Jin Fan, Ting-Shuang Yi, Xiao-Jian Qu. PlastidHub: an integrated analysis platform for plastid phylogenomics and comparative genomics. Plant Diversity, 2025, https://doi.org/10.1016/j.pld.2025.05.005.<br />
 <br />
 
 # Get Started<br />
